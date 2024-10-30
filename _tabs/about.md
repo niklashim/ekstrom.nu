@@ -27,7 +27,6 @@ Feel free to reach out – I’d love to connect and discuss DevOps, tech trends
 ## Let's Collaborate!
 
 I'm open to discussing:
-- DevOps consulting and contract work
 - Cloud infrastructure projects (AWS, Azure, GCP)
 - System automation and CI/CD pipelines
 - Site reliability engineering and monitoring
